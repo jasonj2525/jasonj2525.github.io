@@ -1,6 +1,6 @@
 # Site settings
-title: "Jiankai"
-description: "My personal website."
+title: "金建凯"
+description: "金建凯的个人主页与简历。"
 
 # Build settings
 markdown: kramdown
@@ -10,11 +10,11 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Jiankai Jin"
-resume_title:                   "PhD candidate of unimelb"
+resume_name:                    "金建凯"
+resume_title:                   "AI 安全研究员 | 隐私计算与系统安全"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "jinkai2525@gmail.com"
+resume_contact_email:           "jiankai.jin@outlook.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 # resume_contact_telephone:       "555-7334"
@@ -23,7 +23,7 @@ resume_contact_email:           "jinkai2525@gmail.com"
 # resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>Hi, this is Jiankai, a PhD student from the University of Melbourne. I was also a machine learning engineer focusing on recommendation algorithms before.</p>"
+resume_header_intro: "<p>研究方向包括 AI 隐私和安全、隐私计算、差分隐私系统安全、模型鲁棒性验证以及 TEE 可信硬件。以第一作者发表 5 篇论文，其中 2 篇发表于 IEEE S&amp;P / ACM CCS；曾发现并上报 Google Differential Privacy 与 PyTorch Opacus 等开源项目中的隐私漏洞；Google Scholar 文献引用量 100+。</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -47,13 +47,13 @@ resume_section_awards:          true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/jason-jiankai"
+  resume_github_url:            "https://github.com/jasonj2525"
   resume_twitter_url:           "https://twitter.com/jiankai_jin"
   # resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/jin-jiankai-3a5750119/"
   # resume_instagram_url:         "insert your Instagram URL here"
-  # resume_website_url:           "http://joelglovier.com"
+  resume_website_url:           "https://scholar.google.com/citations?user=wzSmbQQAAAAJ&hl=en"
   # resume_medium_url:            "https://medium.com/@jglovier"
 resume_print_social_links:      true
 

@@ -1,12 +1,22 @@
 # Degree
-- degree: Doctor of Philosophy–Engineering and IT
-  uni: The University of Melbourne
-  year: 2021-Present
-  supervisors: A/Prof Olga Ohrimenko, Prof Ben Rubinstein
-  summary: Identifying and Preventing Implementation Flaws in Secure Machine Learning Systems
+- degree: 工程与信息技术博士（澳大利亚）
+  uni: 墨尔本大学
+  year: 2021.06 - 2025.08
+  thesis: <a href="http://hdl.handle.net/11343/357124" target="_blank">Identifying and Preventing Implementation Flaws in Systems for Privacy and Robustness</a>
+  supervisors: Prof. Olga Ohrimenko, Prof. Benjamin I. P. Rubinstein
+  summary: 人工智能的隐私（差分隐私）和安全（模型鲁棒性），隐私计算和可信硬件，模型鲁棒性验证。
 
-- degree: Master of Information Technology 
-  uni: The University of Melbourne
-  year: 2018-2020
-  supervisors: A/Prof Olga Ohrimenko
-  summary: Effects of Data Sampling on Training of Machine Learning Models
+- degree: 信息技术硕士（澳大利亚）
+  uni: 墨尔本大学
+  year: 2018.07 - 2020.06
+  thesis: Effects of Data Sampling on Training of Machine Learning Models
+  supervisors: Prof. Olga Ohrimenko
+  summary: 在多类不均衡与隐私泄露场景下，通过调整取样算法以兼顾模型性能与隐私。
+
+- degree: 地质资源与地质工程硕士
+  uni: 中国石油大学
+  year: 2015.09 - 2018.06
+
+- degree: 资源勘查工程学士
+  uni: 河北工程大学
+  year: 2011.09 - 2015.06

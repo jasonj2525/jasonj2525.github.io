@@ -1,10 +1,29 @@
 # Publications
-- authors: Jiankai Jin, Eleanor McMurtry, Benjamin I. P. Rubinstein, and Olga Ohrimenko. 
-  title: Are We There Yet? Timing and Floating-Point Attacks on Differential Privacy Systems
-  conference: In 2022 IEEE Symposium on Security and Privacy (SP), pp. 473-488.
-  link: <a href="https://arxiv.org/abs/2112.05307" target="_blank">[preprint]</a> <a href="https://www.computer.org/csdl/proceedings-article/sp/2022/131600b547/1FlQx7dQPYs" target="_blank">[publisher]</a>
-  comment: This study has attacked Meta’s Opacus library for Pytorch and Google's Differential Privacy library. Meta has since fixed the <a href="https://github.com/pytorch/opacus/blob/main/opacus/optimizers/optimizer.py" target="_blank">issue</a> and Google acknowledged our finding via <a href="https://bughunters.google.com/profile/1e5f9da7-e8d5-42dc-be8b-cc576152232a" target="_blank">Google Bug Hunter</a>. One author (Olga) of this paper is invited to present this paper in <a href="https://www.youtube.com/watch?v=F_97aqMUtnY&ab_channel=GoogleTechTalks" target="_blank">Google TechTalk</a> and <a href="https://talks.cam.ac.uk/talk/index/177041" target="_blank">Computer Laboratory Security Seminar</a>.
-- authors: Jiankai Jin, Olga Ohrimenko, Benjamin I. P. Rubinstein. 
+- authors: <strong>Jiankai Jin</strong>, Xiangzheng Zhang, Zhao Liu, Deyue Zhang, Quanchen Zou.
+  title: "Robust Privacy: Inference-Time Privacy through Certified Robustness"
+  conference: arXiv preprint arXiv:2601.17360, 2026
+  link: <a href="https://arxiv.org/pdf/2601.17360" target="_blank">[arXiv 预印本]</a>
+  comment: 模型推理阶段保护输入隐私。
+
+- authors: <strong>Jiankai Jin</strong>, Xiangzheng Zhang, Zhao Liu, Wenzhuo Xu, Dongdong Yang, Deyue Zhang, Quanchen Zou.
+  title: "ElephantAgent: Contextual State Continuity in Agentic Systems"
+  conference: Manuscript in preparation
+  comment: 利用可信硬件（TEE）和状态连续性机制保护 tool 和 memory 等 Agent 上下文。
+
+- authors: <strong>Jiankai Jin</strong>, Eleanor McMurtry, Benjamin I. P. Rubinstein, and Olga Ohrimenko.
+  title: "Are We There Yet? Timing and Floating-Point Attacks on Differential Privacy Systems"
+  conference: IEEE Symposium on Security and Privacy (IEEE S&amp;P), 2022
+  link: <a href="https://ieeexplore.ieee.org/abstract/document/9833672" target="_blank">[IEEE S&amp;P 论文]</a> <a href="https://arxiv.org/abs/2112.05307" target="_blank">[arXiv 预印本]</a>
+  comment: 利用时间和浮点侧信道，对差分隐私系统发起攻击。此研究获得 <a href="https://bughunters.google.com/profile/1e5f9da7-e8d5-42dc-be8b-cc576152232a" target="_blank">Google Bug Hunter</a> 提名；PyTorch 亦修复了文中提出的 <a href="https://github.com/pytorch/opacus/blob/main/opacus/optimizers/optimizer.py" target="_blank">Bug</a>。IEEE S&amp;P 为国际公认的四大安全顶会之一，中国计算机学会（CCF）A 类会议。
+
+- authors: <strong>Jiankai Jin</strong>, Chitchanok Chuengsatiansup, Toby Murray, Benjamin I. P. Rubinstein, Yuval Yarom, Olga Ohrimenko.
+  title: "Elephants Do Not Forget: Differential Privacy with State Continuity for Privacy Budget"
+  conference: ACM SIGSAC Conference on Computer and Communications Security (ACM CCS), 2024
+  link: <a href="https://dl.acm.org/doi/10.1145/3658644.3670281" target="_blank">[ACM CCS 论文]</a> <a href="https://arxiv.org/abs/2401.17628" target="_blank">[arXiv 预印本]</a>
+  comment: 利用可信硬件（TEE）维持差分隐私系统中隐私预算的状态连续性。ACM CCS 为国际公认的四大安全顶会之一，中国计算机学会（CCF）A 类会议。
+
+- authors: <strong>Jiankai Jin</strong>, Olga Ohrimenko, Benjamin I. P. Rubinstein.
   title: "Getting a-Round Guarantees: Floating-Point Attacks on Certified Robustness"
-  conference: arXiv preprint arXiv:2205.10159., 2022. 
-  link: <a href="https://arxiv.org/abs/2205.10159" target="_blank">[preprint]</a>
+  conference: ACM Workshop on Security and Artificial Intelligence (AISec), 2024
+  link: <a href="https://dl.acm.org/doi/10.1145/3689932.3694761" target="_blank">[AISec 论文]</a> <a href="https://arxiv.org/abs/2205.10159" target="_blank">[arXiv 预印本]</a>
+  comment: 基于浮点数舍入误差，对模型可验稳健性发起攻击。

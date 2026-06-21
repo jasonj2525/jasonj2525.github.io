@@ -1,8 +1,8 @@
-- skill: Big Data Computation
-  description: I did a lot of big data computation in my previous job, using tools such as SQL, Redis, ElasticSearch, Spark, and Flink.
+- skill: AI 隐私和安全
+  description: 差分隐私系统安全、模型鲁棒性验证、推理阶段隐私保护、侧信道与浮点实现漏洞分析。
 
-- skill: Machine Learning
-  description: Experience of working with Deep Learning (such as Transformer and ResNet), Ensemble Learning (such as XGBoost), using frameworks such as TensorFlow, PyTorch.
+- skill: 隐私计算
+  description: 差分隐私、TEE 可信硬件、状态连续性机制，以及隐私预算管理。
 
-- skill: Development 
-  description: I can develop programs with Java, Python, Scala, Go, C++, and Bash.
+- skill: 机器学习与推荐系统
+  description: 机器学习模型训练与部署、联邦机器学习、推荐系统策略、离线模型与实时模型。

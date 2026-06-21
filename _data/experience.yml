@@ -1,10 +1,15 @@
 # Jobs
-# VP of Global Communications
-- company: Inke (Beijing)
-  position: AI Lab, Machine Learning Engineer 
-  duration: 2020-2021
-  summary: "I work on the recommendation systems of dating apps such as SoulMatch and ChatRight. My job includes: Design of recommendation systems; big data management using Hive, Redis, Spark, Flink, and ElasticSearch; feature engineering, training and deployment of machine learning models offline (XGBoost) and online (DeepFM). Click through rates and conversion rates of those apps improve up to 300%."
-- company: Bairong (Beijing)
-  position: AI Lab, Machine Learning Engineer (Intern) 
-  duration: "2019"
-  summary: "I work on the Bairong Federated Machine Learning Platform. My job includes: Deployment of the Bairong Federated Machine Learning Platform, frontend and backend development, test and optimization of machine learning models, development of customized feature engineering modules."
+- company: 360 AI 安全实验室
+  position: AI 安全研究员
+  duration: 2025.12 - 至今
+  summary: 大模型安全和智能体安全研究，Skill 安全，LLM API 模型身份鉴定。
+
+- company: 映客直播 AI 平台
+  position: 推荐算法工程师
+  duration: 2020.07 - 2021.06
+  summary: 推荐系统研发，覆盖策略、离线模型与实时模型。
+
+- company: 百融云创 AI 实验室
+  position: 算法工程师（实习）
+  duration: 2019.12 - 2020.03
+  summary: 基于 FATE 框架搭建联邦机器学习平台，测试和部署机器学习模型，并开展特征工程工作。
